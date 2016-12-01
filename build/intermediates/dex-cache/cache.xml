@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3_eddaefd8c0c904a05de49c698f294778c48d3242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-21.0.3_3bac5000b1dab6868944d6f29fa319d2a3bebc54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fuinha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_a7c622bc5175c744d66351a6eaebf67d24b2ebe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_3bac5000b1dab6868944d6f29fa319d2a3bebc54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_eddaefd8c0c904a05de49c698f294778c48d3242/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ef218b4e27a832a697a463ba7b040a2703e2982a">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_594752c0552ddaa5f87754ecd2ae697230c1ffe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fuinha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3_a7c622bc5175c744d66351a6eaebf67d24b2ebe6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9ef87affd0236271198efd96ba96390b096003af">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9b191f775c7880ccf4ceb93216fe48f4673043e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_6cf4af162704e26b352f35f220c5009669f6a8e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-21.0.3_6cf4af162704e26b352f35f220c5009669f6a8e4.jar" />
+    </item>
+
+</items>

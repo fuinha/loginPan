@@ -1,0 +1,7 @@
+#Thu Dec 01 13:34:56 PYST 2016
+base.0=/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9b191f775c7880ccf4ceb93216fe48f4673043e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_594752c0552ddaa5f87754ecd2ae697230c1ffe8/classes.dex
+base.1=/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_594752c0552ddaa5f87754ecd2ae697230c1ffe8
+file.0=/home/fuinha/PROJETOS/panamericado/facial/server/loginPan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9b191f775c7880ccf4ceb93216fe48f4673043e/classes.dex
